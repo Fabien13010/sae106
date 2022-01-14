@@ -1,0 +1,7 @@
+Difficile à dire, je pense que ça peut être une erreur de type, 
+par exemple le fait de transmettre directement depuis ifs dans une variable avec >> 
+A part ça je vois pas, c'est possible que ça vienne de la structure CMyParam, 
+je sais pas ce qu'il y a dedans La structure KAuthorizedKeys est pas définie donc ça peut être ça l'erreur mais je sais pas s'il considère 
+qu'on l'a définie plus tôt hors de la fonction en tant que variable globale  Aussi, le KColor.find(Val)−>second; :
+je sais pas ce que renvoie la fonction find mais si elle renvoie pas de pointeur, 
+alors l'utilisation de la flèche provoque une erreur
